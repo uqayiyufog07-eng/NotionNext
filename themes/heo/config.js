@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '一心只想当个老六', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到我的博客', url: 'https://blog.laoqian303.qzz.io' },
+    { title: '一心只想当个老六', url: 'https://blog.laoqian303.qzz.io' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'LAOQIAN303.US.KG',
   HEO_HERO_TITLE_4: '博客上线',
   HEO_HERO_TITLE_5: 'HELLO WORLD',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_LINK: 'https://blog.laoqian303.qzz.io',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -53,7 +53,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com/uqayiyufog07-eng',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
+  HEO_INFO_CARD_URL3: 'https://blog.laoqian303.qzz.io',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
@@ -120,7 +120,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_URL: 'https://blog.laoqian303.qzz.io',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
