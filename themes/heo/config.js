@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'LAOQIAN303.US.KG',
+  HEO_HERO_TITLE_3: 'LAOQIAN303.QZZ.IO',
   HEO_HERO_TITLE_4: '博客上线',
   HEO_HERO_TITLE_5: 'HELLO WORLD',
   HEO_HERO_TITLE_LINK: 'https://blog.laoqian303.qzz.io',
