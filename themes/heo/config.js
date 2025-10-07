@@ -4,12 +4,12 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2025-10-1', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2025-10-01', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.laoqian303.qzz.io' },
-    { title: '一心只想当个老六', url: 'https://blog.laoqian303.qzz.io' }
+    { title: '欢迎来到我的博客', url: 'https://blog.laoqian303.qzz.io/article/blog001' },
+    { title: '一心只想当个老六', url: 'https://blog.laoqian303.qzz.io/article/blog003' }
   ],
 
   // 英雄区左右侧组件颠倒位置
